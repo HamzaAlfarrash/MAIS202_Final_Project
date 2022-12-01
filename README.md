@@ -22,4 +22,4 @@ This repository contains the scripts used to both train the model and build the 
 2. templates/
    - HTML template for landing page
 3. app.py
-   -main python script to instantiate Flask server and train the model
+   - main python script to instantiate Flask server and train the model
